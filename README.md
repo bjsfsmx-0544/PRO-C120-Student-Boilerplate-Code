@@ -3,6 +3,6 @@ PROBANDO EL CHATBOT
 Python. NLTK.  
   
 Plan de la clase.  
-Plantilla de referencia de la maestra.  
+Plantilla del código del alumno.  
   
 ### Texto en inglés: PRO-C120-Student-Boilerplate-Code
